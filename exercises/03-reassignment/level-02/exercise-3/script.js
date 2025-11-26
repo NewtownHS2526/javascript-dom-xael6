@@ -1,2 +1,6 @@
 // TODO: Create counter = 0, use ++ and --
-
+let counter = 0;
+counter++; // counter = counter + 1
+console.log("After ++:", counter);
+counter--; // counter = counter - 1
+console.log("After --:", counter);
